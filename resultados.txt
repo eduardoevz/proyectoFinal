@@ -1,0 +1,6 @@
+Resultados de ventas:
+resultado de ventas
+Resultados de gastos:
+resultados de gastos
+Ventas totales del mes:
+440.0
